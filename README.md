@@ -26,7 +26,8 @@ A simple Python console-based number guessing game where the player has **7 chan
 Lower bound of range
 Upper bound of range
 Your guesses
-##📂 **Project Structure**
+
+## 📂 **Project Structure**
 number-guessing-game/
 │
 ├── number_guessing_game.py  # Main game script
