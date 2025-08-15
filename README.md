@@ -28,7 +28,7 @@ Upper bound of range
 Your guesses
 
 ## 📂 **Project Structure**
-number-guessing-game/
+number-guessing-game/<br>
 │
 ├── number_guessing_game.py  # Main game script<br>
 └── README.md                # Project documentation<br>
