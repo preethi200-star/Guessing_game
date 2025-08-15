@@ -29,6 +29,6 @@ Your guesses
 
 ## 📂 **Project Structure**
 number-guessing-game/
--│
--├── number_guessing_game.py  # Main game script
--└── README.md                # Project documentation
+│
+├── number_guessing_game.py  # Main game script<br>
+└── README.md                # Project documentation<br>
